@@ -1,0 +1,12 @@
+ .react-flow__minimap {
+  @apply bg-black;  
+ } 
+
+ .react-flow__minimap-inner .react-flow__minimap-inner {
+  @apply bg-black;  
+}
+
+ .react-flow__minimap .react-flow__minimap-mask {
+  @apply bg-black bg-opacity-20; 
+ }
+ 
